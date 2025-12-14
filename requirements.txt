@@ -1,5 +1,6 @@
 streamlit>=1.28.0
-moviepy>=1.0.3
+moviepy==1.0.3
+opencv-python-headless>=4.8.0
 openai-whisper>=20230314
 pysrt>=1.1.2
 torch>=2.0.0
